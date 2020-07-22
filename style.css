@@ -1,0 +1,43 @@
+body {
+    background-image: url(/assets/fp_eiche_no1102_1199010840_sb_of1223_plan_191213_1.jpg);
+    
+  }
+
+h1.header-text {
+    text-align: center;
+}
+
+p.welcome-text {
+    text-align: center;
+}
+
+input[type=text], input[type=password] {
+    background-color: yellow;
+    size: 30px;
+  }
+
+
+  table {
+    border: 1px solid black;
+  }
+
+  td {
+      text-align: left;
+  }
+
+  #img-container {
+margin-top: 100px;
+text-align: center;
+  }
+
+  #img-container > img {
+      width: 100px;
+      height: 100px;
+      margin: 5px;
+  }
+
+
+  #copyrights {
+      text-align: center;
+      font-weight: bold;
+  }
